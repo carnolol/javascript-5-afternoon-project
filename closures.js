@@ -157,7 +157,7 @@ var module = (function () {
     }
   }
 })();
-
+module.publicMethod()
 
 
 ////////// PROBLEM 7 //////////
